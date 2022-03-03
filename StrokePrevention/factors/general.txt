@@ -1,0 +1,3 @@
+# You have non-modifiable risk factors (also called risk markers) for stroke, such as AGE, GENDER, and GENETICS (personal and family health history). The incidence of stroke increases with age, with the incidence doubling for each decade after age 55. With gender, more strokes occur in women than men, due to the longer lifespan of women compared to men. Genetic factors with personal, parental, and family health history also increases the risk of stroke. 
+
+Since this risk factor is non-modifiable, you can prevent stroke from happening by decreasing or even negating your modifiable risk factors, if there is any.
