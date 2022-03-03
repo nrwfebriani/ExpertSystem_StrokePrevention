@@ -10,11 +10,11 @@ This program will help assess whether the user have risk factor(s) for having st
 * [Experta (Python library inspired by CLIPS)](https://pypi.org/project/experta/ "Experta Project")
 
 ## References:
-[1]	Anindito, B. Pardamean, R. Christian, and B. S. Abbas, “Expert-system based medical stroke prevention,” J. Comput. Sci., vol. 9, no. 9, pp. 1099–1105, 2013, doi: 10.3844/JCSSP.2013.1099.1105.
+[1]	A. K. Boehme, C. Esenwa, and M. S. V. Elkind, “Stroke Risk Factors, Genetics, and Prevention,” Circ. Res., vol. 120, no. 3, p. 472, Feb. 2017, doi: 10.1161/CIRCRESAHA.116.308398.
 
-[2]	A. K. Boehme, C. Esenwa, and M. S. V. Elkind, “Stroke Risk Factors, Genetics, and Prevention,” Circ. Res., vol. 120, no. 3, p. 472, Feb. 2017, doi: 10.1161/CIRCRESAHA.116.308398.
+[2]	Centers for Disease Control, “Facts About Hypertension | cdc.gov,” National Center for Chronic Disease Prevention and Health Promotion, 2020. https://www.cdc.gov/bloodpressure/facts.htm (accessed Mar. 03, 2022).
 
-[3]	Centers for Disease Control, “Facts About Hypertension | cdc.gov,” National Center for Chronic Disease Prevention and Health Promotion, 2020. https://www.cdc.gov/bloodpressure/facts.htm (accessed Mar. 03, 2022).
+[3]	National High Blood Pressure Education Program, “Table 3, Classification of blood pressure for adults.,” in The Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure, ethesda (MD): National Heart, Lung, and Blood Institute (US), 2004.
 
 [4]	NHS, “High blood pressure (hypertension) - NHS,” Nhs, 2016. https://www.nhs.uk/conditions/high-blood-pressure-hypertension/ (accessed Mar. 03, 2022).
 
@@ -24,6 +24,10 @@ This program will help assess whether the user have risk factor(s) for having st
 
 [7]	S. Helpline, “Smoking and the risk of stroke,” no. April, pp. 1–6, 2012, Accessed: Mar. 03, 2022. [Online]. Available: www.nhs.uk/smokefree/why-quit.
 
-[8]	MedlinePlus, “LDL: The ‘Bad’ Cholesterol,” Bethesda (MD): National Library of Medicine (US), Oct. 02, 2020. https://medlineplus.gov/ldlthebadcholesterol.html (accessed Mar. 02, 2022).
+[8]	Anindito, B. Pardamean, R. Christian, and B. S. Abbas, “Expert-system based medical stroke prevention,” J. Comput. Sci., vol. 9, no. 9, pp. 1099–1105, 2013, doi: 10.3844/JCSSP.2013.1099.1105.
 
-[9]	Stroke association, “High cholesterol and stroke | Stroke Association,” Dotdash Media, Inc, Dec. 06, 2021. https://www.verywellhealth.com/high-cholesterol-and-stroke-risk-697863 (accessed Mar. 02, 2022).
+[9]	R. L. Sacco et al., “Leisure-time physical activity and ischemic stroke risk: the Northern Manhattan Stroke Study,” Stroke, vol. 29, no. 2, pp. 380–387, 1998, doi: 10.1161/01.STR.29.2.380.
+
+[10]	MedlinePlus, “LDL: The ‘Bad’ Cholesterol,” Bethesda (MD): National Library of Medicine (US), Oct. 02, 2020. https://medlineplus.gov/ldlthebadcholesterol.html (accessed Mar. 02, 2022).
+
+[11]	Stroke association, “High cholesterol and stroke | Stroke Association,” Dotdash Media, Inc, Dec. 06, 2021. https://www.verywellhealth.com/high-cholesterol-and-stroke-risk-697863 (accessed Mar. 02, 2022).
