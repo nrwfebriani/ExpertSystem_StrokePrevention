@@ -1,5 +1,6 @@
 # Expert System - Stroke Risk Factors Detection
 This is a project for Artificial Intelligence DTETI FT UGM 2021/2022 - Expert System for Stroke Risk Factors Detection
+
 Nur Wulan Febriani - 20/460557/TK/51146 - Information Engineering
 
 This program will help assess whether the user have risk factor(s) for having stroke based on answers to several yes-or-no questions. This program will also give informations and advices around the risk factor(s) if there is any.
